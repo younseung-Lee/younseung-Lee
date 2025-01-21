@@ -1,5 +1,8 @@
-<h1 align="center">Hi👋 Lee Youn Seung</h1>
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+
+<h1 align="center">Lee Youn Seung</h1>
 <h3 align="center">집착하는 백엔드 개발자.</h3>
+<h3></h3>
 
 
 <h3 align="left">🌏사용 언어:</h3>
