@@ -1,5 +1,5 @@
 <h1 align="center">Lee Youn Seung</h1>
-<h3 align="center">집착하는 백엔드 개발자.</h3>
+<h3 align="center">백엔드 개발자 이윤승입니다.</h3>
 <br>
 
 
